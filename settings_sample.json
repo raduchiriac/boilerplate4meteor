@@ -1,0 +1,6 @@
+{
+  "environment": "development",
+  "public": {},
+  "production": {},
+  "development": {}
+}

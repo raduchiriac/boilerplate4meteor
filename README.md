@@ -1,7 +1,7 @@
 ## Personal boilerplate for my Meteor apps
 
-> Work in progress...
-> Probably this is a better boilerplate
+> Since this is still a work in progress, check a
+> probably a better looking boilerplate here: [https://github.com/Differential/meteor-boilerplate](https://github.com/Differential/meteor-boilerplate)
 
 You'd maybe start by doing
 

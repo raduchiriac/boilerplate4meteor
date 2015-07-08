@@ -6,7 +6,12 @@
 
 meteor-platform
 iron:router
-fourseven:scss
 mquandalle:jade
 meteorhacks:subs-manager
 multiply:iron-router-progress
+aldeed:simple-schema
+matb33:collection-hooks
+aldeed:collection2
+sacha:spin
+dburles:collection-helpers
+fourseven:scss

@@ -2,8 +2,9 @@
 
 This is how I start my meteor projects
 
-> Since this is still a work in progress, check a
-> probably better looking boilerplate here: [https://github.com/Differential/meteor-boilerplate](https://github.com/Differential/meteor-boilerplate)
+> Since this is still a work in progress, check the
+> probably better looking boilerplate here: [https://github.com/Differential/meteor-boilerplate](https://github.com/Differential/meteor-boilerplate) or
+> if you love your terminal and `iron:router` check out the awesome [iron CLI](https://github.com/iron-meteor/iron-cli).
 
 If you are still curious, you'd maybe wanna start by doing:
 
